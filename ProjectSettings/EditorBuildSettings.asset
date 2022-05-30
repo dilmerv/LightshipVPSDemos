@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ARDKExamples/VirtualStudio/ARDK Remote Feed App.unity
+    guid: 3189817bdea5b482e84d5fdffad8fc5d
+  - enabled: 0
+    path: Assets/ARDKExamples/VpsCoverage/VpsCoverageExample.unity
+    guid: 138112bde976c40c6833cbf125ab73e0
+  - enabled: 0
+    path: Assets/ARDKExamples/VpsCoverage/VpsCoverageListExample.unity
+    guid: 6f69a0dede5c14986bb7d2591de029c8
+  - enabled: 1
+    path: Assets/ARDKExamples/WayspotAnchors/WayspotAnchors.unity
+    guid: 3477628c2e7624b9386c43bf7c008d15
   m_configObjects: {}
