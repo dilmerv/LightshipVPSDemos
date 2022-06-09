@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/ARDKExamples/VpsCoverage/VpsCoverageListExample.unity
     guid: 6f69a0dede5c14986bb7d2591de029c8
-  - enabled: 1
+  - enabled: 0
     path: Assets/ARDKExamples/WayspotAnchors/WayspotAnchors.unity
     guid: 3477628c2e7624b9386c43bf7c008d15
+  - enabled: 1
+    path: Assets/Scenes/Segmentation.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
